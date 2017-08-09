@@ -94,3 +94,10 @@ FROM olympic_data
 GROUP BY country;
 
 -----------------------------------------------------------------------------------------------------------------
+
+Assignment 15.3
+
+Describe in brief:
+1. Hive Data Definitions.
+2. Hive Data Manipulations.
+3. HiveQL Manipulations.
